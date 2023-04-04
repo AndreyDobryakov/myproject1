@@ -8,4 +8,9 @@ public class Person {
 	
 	boolean gender;
 	
+	@Override
+	public String toString() {
+		return name;
+	}
+	
 }
