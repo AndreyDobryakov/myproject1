@@ -10,6 +10,8 @@ class App {
 		System.out.println("Hello ugly World!");
 		
 		p = new Person();
+		p.name = "Andrey";
+		
 		
 	}
 	
