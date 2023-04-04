@@ -3,4 +3,6 @@ public class Person {
 	
 	int age;
 	
+	boolean gender;
+	
 }
