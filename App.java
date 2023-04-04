@@ -1,6 +1,7 @@
 //package abc;
 
 /**
+*	Author : Andrey
 *	Main class with entry point
 */
 public class App {

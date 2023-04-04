@@ -1,3 +1,6 @@
+/**
+*	Person class
+*/
 public class Person {
 	public String name;
 	
