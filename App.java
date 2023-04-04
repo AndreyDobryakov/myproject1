@@ -1,5 +1,8 @@
 //package abc;
 
+/**
+*	Main class with entry point
+*/
 public class App {
 	
 	String userName;
