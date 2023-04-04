@@ -1,4 +1,4 @@
-class Stuff extends Person implements Serializable{
-	String position;
+public class Stuff extends Person implements Serializable{
+ 	String position;
 	
 }
