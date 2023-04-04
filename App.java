@@ -13,8 +13,8 @@ public class App {
 	public static void main (String[] args) {
 		System.out.println("Hello ugly World!");
 		
-		p = new Person();
-		p.name = "Andrey";
+		p = new Person("Andrey", 45);
+		//p.name = "Andrey";
 		
 		
 	}
