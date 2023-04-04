@@ -1,6 +1,6 @@
 //package abc;
 
-class App {
+public class App {
 	
 	String userName;
 	
