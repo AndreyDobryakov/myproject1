@@ -1,4 +1,4 @@
 public class Stuff extends Person implements Serializable{
- 	String position;
+ 	public String position;
 	
 }
